@@ -1,0 +1,17 @@
+{
+  "name": "BatalhaNaval",
+  "version": "1.0.0",
+  "description": "jogo",
+  "main": "batalhaNaval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giuliano Stedile",
+  "license": "ISC",
+  "keywords": [
+    "game"
+  ],
+  "dependencies": {
+    "readline-sync": "^1.2.16"
+  }
+}
